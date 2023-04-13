@@ -1,14 +1,17 @@
 {
    "products":[
       {
-         "item":oatmeal,
+         "id":1,
+         "item":"oatmeal",
          "status":"in stock"
       },
       {
+         "id":2,
          "item":granola,
          "status":"in stock"
       },
       {
+         "id":3,
          "item":egss,
          "status":"out of stock"
       }
