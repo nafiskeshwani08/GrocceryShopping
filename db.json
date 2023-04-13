@@ -2,17 +2,47 @@
    "products":[
       {
          "id":1,
-         "item":"oatmeal",
+         "item":"Oatmeal",
          "status":"in-stock"
       },
       {
          "id":2,
-         "item":"granola",
+         "item":"Granola",
          "status":"in-stock"
       },
       {
          "id":3,
-         "item":"egss",
+         "item":"Strawberries",
+         "status":"in-stock"
+      },
+      {
+         "id":4,
+         "item":"Macaroni and Cheese",
+         "status":"in-stock"
+      },
+      {
+         "id":5,
+         "item":"Pizza",
+         "status":"in-stock"
+      },
+      {
+         "id":6,
+         "item":"Broccoli",
+         "status":"in-stock"
+      },
+      {
+         "id":7,
+         "item":"Chicken Nuggets",
+         "status":"in-stock"
+      },
+      {
+         "id":8,
+         "item":"Eggs",
+         "status":"out-of-stock"
+      },
+      {
+         "id":9,
+         "item":"Milk",
          "status":"out-of-stock"
       }
    ]
